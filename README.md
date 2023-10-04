@@ -1,2 +1,3 @@
 # website_art_jimmy
-kunstwebsite Jimmy
+<p>Project om een artist website te maken, in progress
+</p>
